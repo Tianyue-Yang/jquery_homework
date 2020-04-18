@@ -29,7 +29,7 @@
 
 // }
 
-var msg = "Hover over an image below to display the image and the alt text";
+var msg = "Hover over an image below";
 
 $("img").mouseenter(function() {
 	console.log("A image being hovered");
